@@ -1,4 +1,4 @@
-# 単語暗記用Pythonシステム(Windows&MacOS)
+# 単語暗記GUIアプリ(Windows&MacOS)
 ![demo](https://raw.github.com/wiki/Rockreeee/gui-app-study/images/explanation.gif)
 ## 説明
 単語勉強などで便利な、自動で単語が切り替わるおしゃれなGUIアプリです。  
@@ -6,9 +6,9 @@
 👹👹使用については、自己責任でお願いいたします。👹👹
 
 ## キーバインド
-- space key 学習済みボタン
-- Return key 表示windowが小さくなるボタン
-- Escape key 終了ボタン
+- space key 学習済み
+- Return key 表示windowが小さくなります
+- Escape key 終了
 
 ## セットアップ
 
