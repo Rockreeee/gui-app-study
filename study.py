@@ -7,8 +7,8 @@ import copy
 
 import date
 
-randomNumber=int
-book=date.book
+randomNumber = int
+book = date.book
 
 class GUI(threading.Thread):
 
